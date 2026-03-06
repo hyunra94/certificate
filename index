@@ -111,7 +111,7 @@
 
 <script>
   // ← Cloudflare Workers URL만 있으면 됨 (API 키 없음)
-  const WORKER_URL = 'https://certificate-api.계정명.workers.dev';
+  const WORKER_URL = 'https://certificate-api.abyss9405.workers.dev';
 
   // 조회 횟수 제한 (같은 브라우저에서 1분에 5회)
   const attempts = [];
